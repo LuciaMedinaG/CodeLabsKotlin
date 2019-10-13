@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lucia Medina</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+     Hola, Mi nombre es Lucia Medina.
+     \n Tengo 24 anios y soy Ingeniera Mecatronica de INTEC
+     \n\n Mi color favorito es el morado
+     \n\n Naci el 7 de julio de 1995
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+     \n\n Me gusta mucho programar
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
