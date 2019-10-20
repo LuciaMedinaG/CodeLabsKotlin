@@ -1,0 +1,4 @@
+#Sat Oct 19 16:27:20 AST 2019
+base.0=/Users/manueltiburcio/AndroidStudioProjects/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
